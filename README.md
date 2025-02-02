@@ -16,6 +16,6 @@ Merhaba! Ben **Ayşe Nur Barut**, 3. sınıf Bilgisayar Mühendisliği öğrenci
 <img src="uçuçbalon.png" width="200" height="200">
 
 ### 🎮 İskeleti Öldür
-<img src="iskeletiöldür" width="200" height="200">
+<img src="iskeletioyun" width="200" height="200">
 
 
