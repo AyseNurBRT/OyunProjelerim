@@ -13,9 +13,11 @@ Merhaba! Ben **Ayşe Nur Barut**, 3. sınıf Bilgisayar Mühendisliği öğrenci
 
 ## 📸 Ekran Görüntüleri
 ### 🎮 UçUçBalon
+![Açıklama](uçuçbalon.png)
 <img src="uçuçbalon.png" width="200" height="200">
 
 ### 🎮 İskeleti Öldür
+![Açıklama](iskeletoyun.png)
 <img src="iskeletioyun" width="200" height="200">
 
 
